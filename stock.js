@@ -13,7 +13,7 @@ function profitPerUnit(products) {
 
 
 const products = [
-    { name: "Rice (50kg bag)", qty: 4, minQty: 2, buy: 21000, sell: 23500 },
+    { name: "Rice (50kg bag)", qty: 2, minQty: 2, buy: 21000, sell: 23500 },
     { name: "Groundnut oil (1L)", qty: 1, minQty: 6, buy: 1100, sell: 1300 },
     { name: "Sugar (1kg)", qty: 0, minQty: 5, buy: 750, sell: 900 },
     {
